@@ -1,4 +1,4 @@
-package com.naver.www.te;
+package com.naver.www.test;
 
 /**
  * Hello world!
